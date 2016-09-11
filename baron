@@ -1,0 +1,53 @@
+<html>
+ <head>
+  <title>The Silver Baron's Wife</title>
+ </head>
+ <body>
+ <div id="title!"></div><h1>The Silver Baron's Wife</h1></div>
+ <div> <h4><i>Available September 15</i></h4><img src="https://images-na.ssl-images-amazon.com/images/I/819jz2Vk1gL.jpg"></div>
+ <i>From <a href="http://donnabaierstein.com/books/the-silver-barons-wife/overview/">donnabaierstein.com</a>:</i><br><br>
+ 
+ <div id="description">In 1866, 12-year-old Lizzie McCourt watches her father’s Oshkosh tailoring business go up in flames and vows to help rebuild her family’s fortune. Ten years later, still eager for respectability and social standing, she marries the mayor’s son and follows him to Colorado. When Harvey Doe proves a disappointment — both as husband and provider — Lizzie Doe goes down into the mines herself, drawn by their mystery and promise. After finding Harvey in a brothel with a young girl, Lizzie divorces him and moves to Leadville.<br><br>
+
+There, she catches the attention of Horace Tabor, a silver baron thirty years her senior and one of the wealthiest men in America. Amidst great scandal, Horace leaves his wife and son to marry Lizzie at The Willard Hotel in Washington, DC, in 1883. Their wedding invitations are made of solid silver, and President Chester Arthur and his Cabinet attend the ceremony, though their wives refuse to accompany them.<br><br>
+
+Returning to Denver, Horace and Lizzie build a sumptuous villa, with imported furnishings and a hundred peacocks gracing their yard.   Still, the Denver elite refuse to welcome them. Lizzie finds solace in two daughters, Rosemary Echo and Silver Dollar, and in her love for Horace.<br><br>
+
+With the repeal of the Sherman Silver Act, Horace Tabor’s grand fortune is lost.   Their Sherman Street villa and all their possessions are gone. Contrary to her image as “gold digger,” Lizzie does not abandon Horace, but spends the next years by his side as he works as a day laborer and finally, postmaster of Denver.<br><br>
+
+On his deathbed, Horace tells Lizzie never to abandon the Matchless Mine, where he had made much of his wealth. So Lizzie returns to Leadville and moves into a one-room shack at the mine. Her older daughter, Lily, abandons her, and Silver Dollar dies a scandalous death in a Chicago rooming house.<br><br>
+
+For nearly three decades, Lizzie lives by herself at the mine. She keeps copious dream journals, writes in the margins of her Bible, and notes the visitations of spirits on her wall calendar. The loss of Horace, her daughters, her wealth have been her fall from Eden. Nothing — not love, money or motherhood — has ultimately satisfied, and she turns inward, to keep the demons at bay and find solace in another, higher world. On March 7, 1935, Lizzie Doe Tabor is found frozen to death in her shack by a young boy delivering groceries.<br></div><br>
+</html>
+<style type="text/css">
+h1 {
+    font-family: georgia;
+    margin-left: 20px;
+    
+}
+h4 {
+    margin-left: 20px;
+}
+body { 
+    background-color: #e6f7ff;
+    font-family: georgia;
+    color: #404040
+}
+img {
+    float: left;
+    width: 60%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.description {
+    float: right;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+.title! {
+    padding-left: 20px;
+}
+a {
+    text-decoration: none;
+    color: darkblue;
+}
